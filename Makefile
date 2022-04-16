@@ -10,3 +10,4 @@ install:
 	$(MAKE) -C st install
 	$(MAKE) -C dwm install
 	cp ./bar /usr/local/bin/
+	chmod +x /usr/local/bin/bar
