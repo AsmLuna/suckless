@@ -1,14 +1,6 @@
 https://github.com/hnhx/suckless <-- the original creator of this
 
-Changes:
-- dwm
-  - Changed the font and the colors (dracula theme)
-  - Changed dmenu
-  - Made a simple status bar
-  - Added a keybind (shift + alt + d) for flameshot
-- st
-  - Applied the [anysize](https://st.suckless.org/patches/anysize/st-anysize-0.8.4.diff) patch
-  - Changed the font and the colors (dracula theme)
+You need font awesome for the bar https://fontawesome.com/ (arch package is called ttf-font-awesome)
 
 How to install:
 
