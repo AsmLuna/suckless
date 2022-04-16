@@ -1,3 +1,5 @@
+https://github.com/hnhx/suckless <-- the original creator of this
+
 Changes:
 - dwm
   - Changed the font and the colors (dracula theme)
@@ -11,7 +13,7 @@ Changes:
 How to install:
 
 ```
-git clone https://github.com/hnhx/suckless.git
+git clone https://github.com/opensky0/suckless.git
 cd suckless
 make
 sudo make install
