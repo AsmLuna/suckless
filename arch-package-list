@@ -2,4 +2,5 @@ ttf-liberation
 ttf-dejavu
 xorg-xsetroot
 nitrogen
-xbindkeys
+ttf-font-awesome
+xorg-xinit
