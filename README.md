@@ -1,6 +1,6 @@
 https://github.com/hnhx/suckless <-- the original creator of this
 
-You need font awesome for the bar https://fontawesome.com/ (arch package is called ttf-font-awesome)
+Make sure to install the required packages from the file named "arch-package-list" (arch only)
 
 How to install:
 
