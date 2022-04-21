@@ -4,3 +4,5 @@ xorg-xsetroot
 nitrogen
 ttf-font-awesome
 xorg-xinit
+xbindkeys
+dunst
