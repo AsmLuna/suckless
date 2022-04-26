@@ -1,5 +1,5 @@
 all:
-	git clone https://git.suckless.org/dwm
+	git clone https://github.com/opensky0/patched-dwm dwm
 	git clone https://git.suckless.org/st
 	cp ./stconfig.h ./st/config.h
 	cp -f ./x.c ./st/x.c
