@@ -1,3 +1,6 @@
+<img src="screenshot.png" width=100%>
+<p align="center">DISCLAIMER: In this image I'm using kitty instead of ST (suckless terminal)</p>
+
 https://github.com/hnhx/suckless <-- the original creator of this
 
 Make sure to install the required packages from the file named "arch-package-list" (arch only)
@@ -11,7 +14,3 @@ sudo pacman -S $(cat arch-package-list)  # only if you are on a arch based syste
 make
 sudo make install
 ```
-
-DISCLAIMER: In this image I'm using kitty instead of ST (suckless terminal)
-<br></br>
-![Alt text](screenshot.png "screenshot")
