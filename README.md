@@ -1,6 +1,8 @@
 <img src="screenshot.png" width=100%>
 <p align="center">DISCLAIMER: In this image I'm using kitty instead of ST (suckless terminal)</p>
 
+<br>
+
 https://github.com/hnhx/suckless <-- the original creator of this
 
 Make sure to install the required packages from the file named "arch-package-list" (arch only)
