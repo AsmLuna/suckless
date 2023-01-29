@@ -11,5 +11,6 @@ sudo pacman -S $(cat arch-package-list)  # only if you are on a arch based syste
 make
 sudo make install
 ```
+
 DISCLAIMER: In this image I'm using kitty instead of ST (suckless terminal)
 ![Alt text](screenshot.png "screenshot")
