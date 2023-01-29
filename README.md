@@ -12,6 +12,6 @@ make
 sudo make install
 ```
 
-</br>
 DISCLAIMER: In this image I'm using kitty instead of ST (suckless terminal)
+<br></br>
 ![Alt text](screenshot.png "screenshot")
