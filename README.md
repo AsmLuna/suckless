@@ -1,6 +1,5 @@
 <img src="screenshot.png" width=100%>
-<p align="center">PS: This is the kitty terminal not ST, the config is [here](kitty.conf)</p> [here](kitty.conf)
-
+<p align="center">PS: This is the kitty terminal not ST</p>
 <br>
 
 https://github.com/hnhx/suckless <-- the original creator of this
