@@ -1,5 +1,5 @@
 <img src="screenshot.png" width=100%>
-<p align="center">DISCLAIMER: In this image I'm using kitty instead of ST (suckless terminal)</p>
+<p align="center">PS: This is the kitty terminal not ST, the config is [here](kitty.conf)</p> [here](kitty.conf)
 
 <br>
 
