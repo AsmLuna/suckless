@@ -11,3 +11,5 @@ sudo pacman -S $(cat arch-package-list)  # only if you are on a arch based syste
 make
 sudo make install
 ```
+
+![Alt text](screenshot.png "screenshot")
