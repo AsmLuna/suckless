@@ -1,4 +1,4 @@
-<img src="rice.png" width=100%>
+<img src="screenshot.png" width=100%>
 <p align="center">Hnhx's simple suckless rice</p>
 
 <br>
