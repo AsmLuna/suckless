@@ -1,10 +1,7 @@
 all:
-	cp -f ./zshrc ~/.zshrc
 	cp -f ./xinitrc ~/.xinitrc
 	cp -f ./picom.conf ~/.config/
-	mkdir ~/.config/sxhkd
-	cp -f ./sxhkdrc ~/.config/sxhkd/
-	feh --bg-scale ./bg.jpg
+	cp -f ./xbindkeysrc ~/.xbindkeysrc
 
 install:
 	$(MAKE) -C suckless/st install
