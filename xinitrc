@@ -3,8 +3,9 @@ then
  	eval $(dbus-launch --sh-syntax --exit-with-session)
 fi
 
-~/.fehbg &
+nitrogen --restore &
 picom &
-sxhkd &
+xbindkeys &
+dunst &
 bar &
 exec dwm
