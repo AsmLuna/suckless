@@ -12,4 +12,4 @@ make
 sudo make install
 ```
 
-The packages you will need: `ttf-liberation ttf-dejavu xorg-xsetroot nitrogen ttf-font-awesome xorg-xinit xbindkeys dunst pulseaudio picom`
+The packages you will need: `ttf-liberation ttf-dejavu xorg-xsetroot nitrogen ttf-font-awesome xorg-xinit xbindkeys dunst pulseaudio picom ttf-hack`
