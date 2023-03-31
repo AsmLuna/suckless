@@ -6,7 +6,7 @@
 How to install:
 
 ```
-git clone https://github.com/opensky0/rice.git
+git clone --branch Variant2 https://github.com/opensky0/suckless
 cd rice
 make
 sudo make install
