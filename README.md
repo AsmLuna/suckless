@@ -15,3 +15,4 @@ sudo pacman -S $(cat arch-package-list)  # only if you are on a arch based syste
 make
 sudo make install
 ```
+CHECK "Variant2" BRANCH FOR UPDATED VERSION
