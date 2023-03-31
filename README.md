@@ -7,7 +7,7 @@ How to install:
 
 ```
 git clone --branch Variant2 https://github.com/opensky0/suckless
-cd rice
+cd suckless
 make
 sudo make install
 ```
