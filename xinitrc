@@ -4,7 +4,7 @@ then
 fi
 
 nitrogen --restore &
-picom &
+picom --animations --animation-for-open-window zoom --animation-for-transient-window slide-down &
 xbindkeys &
 dunst &
 bar &
