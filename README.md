@@ -1,3 +1,4 @@
+CHECK "Variant2" BRANCH FOR UPDATED VERSION
 <img src="screenshot.png" width=100%>
 <p align="center">PS: This is the kitty terminal not ST</p>
 <br>
