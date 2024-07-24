@@ -12,6 +12,6 @@ make
 sudo make install
 ```
 
-The packages you will need: `ttf-liberation ttf-dejavu xorg-xsetroot nitrogen ttf-font-awesome xorg-xinit xbindkeys dunst pulseaudio picom-pijulius-git (AUR) ttf-hack`
+The packages you will need: `dmenu ttf-liberation ttf-dejavu xorg-xsetroot nitrogen ttf-font-awesome xorg-xinit xbindkeys dunst pulseaudio picom-pijulius-git (AUR) ttf-hack`
 
 compile picom from [here](https://github.com/pijulius/picom) if you cant get the AUR package, keep in mind that getting picom is optional of course
