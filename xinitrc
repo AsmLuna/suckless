@@ -4,8 +4,12 @@ then
 fi
 
 nitrogen --restore &
-#picom --animations --animation-for-open-window zoom --animation-for-transient-window slide-down &
-picom --corner-radius 10 &
+
+picom --animations --animation-for-open-window zoom --animation-for-transient-window slide-down --corner-radius 10 &
+
+# uncomment for picom without animations
+#picom --corner-radius 10 &
+
 xbindkeys &
 dunst &
 bar &
