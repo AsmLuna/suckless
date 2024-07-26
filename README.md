@@ -6,7 +6,7 @@
 How to install:
 
 ```
-git clone --branch Variant2 https://github.com/opensky0/suckless
+git clone --branch Variant2 https://github.com/asmluna/suckless
 cd suckless
 make
 sudo make install
