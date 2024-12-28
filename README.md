@@ -14,4 +14,4 @@ sudo make install
 
 The packages you will need: `dmenu ttf-liberation ttf-dejavu xorg-xsetroot nitrogen ttf-font-awesome xorg-xinit xbindkeys dunst pulseaudio picom-ftlabs-git (AUR) ttf-hack`
 
-Alternative Picom Fork [pijulius](https://github.com/pijulius/picom),keep in mind that getting picom is optional of course
+Alternative picom fork [pijulius](https://github.com/pijulius/picom) source code, keep in mind that getting picom is optional of course
