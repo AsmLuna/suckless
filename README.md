@@ -16,4 +16,4 @@ The packages you will need: `dmenu ttf-liberation ttf-dejavu xorg-xsetroot nitro
 
 Warning: By default rebuilding will overwrite your .xinitrc file with the one found alongisde the makefile
 
-Alternative picom fork [pijulius](https://github.com/pijulius/picom) source code, keep in mind that getting picom is optional of course
+Alternative picom fork [pijulius](https://github.com/pijulius/picom), keep in mind that getting picom is optional of course
