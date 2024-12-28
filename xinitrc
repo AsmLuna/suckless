@@ -5,10 +5,10 @@ fi
 
 nitrogen --restore &
 
-# latest pijulius picom fork does not work with this command
+# use picom-ftlabs-git (AUR) if you wish to use this
 #picom --animations --animation-for-open-window zoom --animation-for-transient-window slide-down --corner-radius 10 &
 
-# uncomment for picom without animations and with rounded corners
+# vanilla picom with corner radius
 picom --corner-radius 10 &
 
 xbindkeys &
